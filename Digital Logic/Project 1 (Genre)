@@ -1,0 +1,6 @@
+End goal: Decide what genre of song you want
+
+- The “XOr” makes sure you can only choose between one of the two options that go into it
+- The “and” gates combine with the “XOr” gates to simplify it
+- The “or” gate at the end simplifies it all. Yes I chose a song, or no I did not choose a song
+
