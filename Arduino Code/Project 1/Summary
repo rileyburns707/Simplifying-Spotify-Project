@@ -1,1 +1,4 @@
-test
+I tried to continue the same theme, of adding songs to a playlist, that I did for my previous two projects for this project as well. I started with
+a simple idea and tried to frame it in a way that could be realistically done with my abilities with the Arduino Uno. For this project, I tried to
+keep it simple and my main goal was to understand how to use the code and hardware. I had a light and a button, the light represents if the song is
+in the playlist and the button is a function for the user to manually choose if they want to add the song to their playlist. 
