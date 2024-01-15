@@ -1,1 +1,5 @@
-
+Determining what kind of mood you want for your playlist and whether or not you want to add it to a private or
+public playlist. I made it where 0 is happy and 1 is sad for the mood, and 0 is private and 1 is public for the
+privacy setting. Once you decide what song you want, you add it to the respective playlist. This was the first
+assembly language code I wrote outside of the helloworld code so it took a lot of getting used to. I tried playing
+around with the user input but couldn’t quite figure out
