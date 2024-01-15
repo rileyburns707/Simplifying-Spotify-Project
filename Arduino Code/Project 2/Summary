@@ -1,1 +1,3 @@
-
+For this project, I had two LEDs that represented a certain pace of a song that is “being played”. The blue LED was button1 and represented a fast song,
+and the red LED represented a slow song. If you want to add a fast song to a playlist you click button 1, and if you want to add a slow song to a playlist
+you click button 2. 
