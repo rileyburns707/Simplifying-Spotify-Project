@@ -1,1 +1,6 @@
+This code decides the length of the song that you want to add to the playlist. Where this one differs
+most from the project 1 counterpart was that I wanted to focus on using a loop. We did a loop example
+in class and I wanted to see if I could figure it out. I made the array 5 songs long so it goes through
+the loop 5 times before exiting. I used a lot of the addi function in this code because the loop needed
+to move forward. 
 
