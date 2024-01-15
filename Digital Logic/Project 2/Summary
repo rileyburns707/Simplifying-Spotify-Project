@@ -1,1 +1,3 @@
+I added more specific details to the short song gates and used a X-Or gate at the end to combine the 2 lengths of songs, but you have to choose. The reason the “and” gate with both of the inputs being “short songs” is because there are songs that just combine two short songs to make one long song. The “or” gate on the bottom right is an “or” gate because you can have either option happen, which connects to another “or” gate because you do not need to have a long slow ending or a skit, it is more optional. The most important thing about the long song is that it is a long song, not what type of long song. 
+
 
