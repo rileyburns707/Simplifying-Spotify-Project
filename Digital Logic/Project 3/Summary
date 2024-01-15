@@ -1,1 +1,15 @@
+#1 (top)
+For this one, I had a few ideas about the type of song you would want to add to the song. For example, if you want to add a
+song to a happy playlist that is one option, but you could have more than one happy playlist. The same goes for a playlist
+of sad songs. In the top left I made it where you can choose what type of happy or song songs you want. I added the LED to
+be a clarification that whatever option you choose the result would be the type of mood the song is. I then did a similar
+thing for whether you want a public or private playlist, but there could be multiple types of a public playlist. I simplified
+it all down to a X-Or gate. One half is you want to add a song to the playlist, and the other is you do not want to add it to
+a playlist. 
+
+#2 (bottom)
+I also tried to use a multiplier to see if I could find a way to add multiple songs. It does work but it is not as fluid.
+It is harder to tell if what you did worked because it just displays a number above the wires which are difficult to see.
+You have to input 1 bit for all the inputs you want on. Once you do that you can pick how many songs you want to add by 
+changing the input of the “add multiple songs” input.
 
