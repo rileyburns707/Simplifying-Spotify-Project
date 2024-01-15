@@ -1,1 +1,5 @@
-
+For this last one, I wanted to figure out how to incorporate the user input. This specific code determines
+the type of music you want to listen to. Whether you want hip hop or folk, slow or fast, and English or Spanish.
+Since I did a lot of asking the same questions I was able to recycle the same kind of code to make the program
+longer while adding significantly less work which was nice. I added the output that shows the input that the user
+enters in the first image. 
